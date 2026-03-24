@@ -37,15 +37,7 @@ else:
 <img width="1670" height="568" alt="image" src="https://github.com/user-attachments/assets/13e20201-c612-489e-82c7-9408f549cd14" />
 
 ## Result
-num = int(input("Enter a number: "))
-
-temp = num
-rev = 0
-
-while temp > 0:
-    rev = (10 * rev) + temp % 10
-    temp = temp // 10
-
+Thus, the Python program to check whether a number is a palindrome using loops is executed successfully.
 if rev == num:
     print("Palindrome")
 else:
