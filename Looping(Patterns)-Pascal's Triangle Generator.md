@@ -45,7 +45,8 @@ for i in range(n):
 
 ## Sample Output
 
-<img width="1630" height="591" alt="image" src="https://github.com/user-attachments/assets/c9f68364-9bb9-45b0-a135-5812198d7100" />
+<img width="1640" height="466" alt="image" src="https://github.com/user-attachments/assets/f325e541-0886-45ec-8598-3a2e45dcc77f" />
+
 
 ## Result
 Thus, the Python program to generate Pascal's Triangle is executed successfully.
