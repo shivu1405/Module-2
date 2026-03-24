@@ -10,7 +10,17 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ## 🧾 Program
 Add code here
+```
+f = lambda a, b: a + b
 
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+print("Sum:", f(a, b))
+```
 ## Output
 
+<img width="1630" height="410" alt="image" src="https://github.com/user-attachments/assets/ac48086c-8576-4dc3-bceb-8ff74439fd97" />
+
 ## Result
+Thus, the Python program using a lambda function to add two numbers is executed successfully.
